@@ -1,12 +1,20 @@
-## Hi there 👋
+<h2> Hi-yah! I'm Congwei Ni. 😼
 
-<!--
 
-**Here are some ideas to get you started:**
+<img align="right" alt="jpeg" src="https://github.com/gtb-2022-ni-congwei/.github/blob/573aed70af299c6ce65722148e23c433facb0d74/profile/IMG_9424.jpeg" width="200"/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3> 🧑🏻‍💻 About Me </h3>
+
+- 🎓 &nbsp; I have a master's in Computer Graphics, Vision and Imaging @ University College London, and I did my undergrad in Computer Science @ University of Liverpool & Xi'an Jiaotong-Liverpool University.
+- 🕹 &nbsp; I love playing computer games, especially Dota 2.
+- 🏀 &nbsp; Former school team basketball player.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | MatLab
+- 🛢 &nbsp; MySQL
+
+<h3>📞 Contact Info</h3>
+
+- 📨 &nbsp; <a href="mailto:congwei.ni98@gmail.com">Email Me</a>
+
