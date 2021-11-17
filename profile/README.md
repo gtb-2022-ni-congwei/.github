@@ -1,7 +1,7 @@
 # Hi-yah! I'm Congwei Ni. 😼
 
 
-<img align="right" alt="jpeg" src="IMG_9424.jpeg" width="200"/>
+<img align="right" src="IMG_9424.jpeg" width="200"/>
 
 ### 🧑🏻‍💻 About Me
 
