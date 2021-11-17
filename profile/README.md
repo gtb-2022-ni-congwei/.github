@@ -1,7 +1,7 @@
 # Hi-yah! I'm Congwei Ni. 😼
 
 
-<img align="right" src="IMG_9424.jpeg" width="200"/>
+<img align="right" src="https://github.com/gtb-2022-ni-congwei/.github/blob/b008e6a3b2e03c98bb1cf95acf6ec6a7cb37096d/profile/IMG_9424.jpeg" width="200"/>
 
 ### 🧑🏻‍💻 About Me
 
